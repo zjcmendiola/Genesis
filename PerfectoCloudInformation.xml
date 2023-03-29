@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<cloud.info>
+	<!-- Perfecto Cloud Name such as demo -->
+    <perfecto.cloudname>techm-globe.app</perfecto.cloudname>
+    <!-- Perfecto Cloud Security token -->
+    <perfecto.securitytoken>eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI5ZTczOWI3Ni05MDg1LTRmMjYtYTU0MC0yZDljZTMxZTcwOGYifQ.eyJpYXQiOjE2NDU3MDE2MTksImp0aSI6IjMxYmI5ZTk4LTE2ZDktNGYzZC05ZTczLTJiMGFkYzQ2MGFjOSIsImlzcyI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RlY2htLWdsb2JlLXBlcmZlY3RvbW9iaWxlLWNvbSIsImF1ZCI6Imh0dHBzOi8vYXV0aDMucGVyZmVjdG9tb2JpbGUuY29tL2F1dGgvcmVhbG1zL3RlY2htLWdsb2JlLXBlcmZlY3RvbW9iaWxlLWNvbSIsInN1YiI6IjBlMzhmNmNhLTg4ODctNDI3MC04NTQ1LTE5OTgyZGVmN2Y2ZiIsInR5cCI6Ik9mZmxpbmUiLCJhenAiOiJvZmZsaW5lLXRva2VuLWdlbmVyYXRvciIsIm5vbmNlIjoiOWU4MmY5MDctYjg4Ny00YTZlLTg1YzEtNjY5NjI3NzczNWJlIiwic2Vzc2lvbl9zdGF0ZSI6IjQxZGM5MDkyLWI5MWMtNDRkMC1hYmJlLTlkNjVkZDk4Y2NiMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgb2ZmbGluZV9hY2Nlc3MgZW1haWwifQ.X9YqhEpDQyW1hwJbKLA82j6odcXpsUhBOgL9qhjYcWw</perfecto.securitytoken>
+    <!-- Perfecto Digital Zoom Job name -->
+    <perfecto.jobname>qTest Integration Demo</perfecto.jobname>
+    <!-- Leave the values blank to not use proxy-->
+    <local.proxy>
+    	<protocol><!-- http/https--></protocol>
+    	<host><!-- localhost:port --></host>
+	    <username><!-- Proxy User Name--></username>
+	    <password><!-- Proxy Password--></password>
+    </local.proxy>
+    
+</cloud.info>

@@ -1,0 +1,1 @@
+appcenter distribute groups download -g "TCOE%20Automation" -a "Stratpoint-Mobile-Group/GOMOX-iOS" -d app --token 8e21d35ee01ca1b3345ed364111f46b3663bcd47

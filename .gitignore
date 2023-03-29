@@ -1,0 +1,8 @@
+/target/
+/test-output/*
+/Python27_Excel_PDF/*
+/Python27_Excel_PDF/
+/app/*.apk
+/app/*.ipa
+*.pyc 
+~$TestData.xlsx
